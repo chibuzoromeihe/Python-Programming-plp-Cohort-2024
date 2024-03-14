@@ -23,6 +23,6 @@ print(my_list)
 my_list.sort()
 print(my_list)
 
-#7. index of 30 in my_list
+#7. To get the index of 30 in my_list
 index_of_30 = my_list.index(30)
 print('The index of value 30 in my_list is: ', index_of_30)
